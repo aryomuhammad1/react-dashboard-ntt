@@ -11,7 +11,7 @@ export const Brand = ({ className }: BrandProps) => {
         P
       </span>
       <span className="flex flex-col leading-tight">
-        <span className="text-sm font-bold tracking-tight">Prudential</span>
+        <span className="text-sm font-bold tracking-tight">Prodash</span>
         <span className="text-xs text-muted-foreground">Product Dashboard</span>
       </span>
     </div>

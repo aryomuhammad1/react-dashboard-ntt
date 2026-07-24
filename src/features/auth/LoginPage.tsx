@@ -67,7 +67,7 @@ export const LoginPage = () => {
           <span className="flex size-9 items-center justify-center rounded bg-white text-base font-bold text-pru-red">
             P
           </span>
-          <span className="text-sm font-bold tracking-tight">Prudential</span>
+          <span className="text-sm font-bold tracking-tight">Prodash</span>
         </div>
 
         <div className="max-w-md">
