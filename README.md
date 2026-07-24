@@ -2,7 +2,7 @@
 
 Mini dashboard untuk mengelola data produk. Dibangun menggunakan React 19 dan TypeScript, dengan REST API publik dari [DummyJSON](https://dummyjson.com).
 
-Tema warna dan tipografi mengikuti gaya Prudential sesuai brief (merah `#da291c` dan font Open Sans). Nama dan logo Prudential sendiri tidak digunakan pada aplikasi.
+Tema warna dan tipografi mengikuti gaya Prudential (merah `#da291c` dan font Open Sans). Nama dan logo Prudential sendiri tidak digunakan pada aplikasi.
 
 Demo: https://aryomuhammad1.github.io/react-dashboard-ntt
 
